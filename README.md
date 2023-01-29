@@ -6,3 +6,5 @@
 - 💬 Ask me anything [here](https://github.com/v-si4r/v-si4r/issues) and I'll see what I can do for you
 - 📫 How to reach me in my [linkedin](https://www.linkedin.com/in/vsichkar/)
 - ⚡ Fun fact: My natural laziness motivates my creativity. 
+
+![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-si4r&layout=compact&hide=HTML,PostScript&theme=default_repocard)
