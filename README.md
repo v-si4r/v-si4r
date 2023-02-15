@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vadym Sichkar. A Solution Archiect in G+D.
+### Hi there 👋 I'm Vadym Sichkar. A Solution Architect in G+D.
 
 - 🔭 I’m currently working on [Compass Transport](https://www.gi-de.com/en/payment/cash/digital-solutions/cash-in-transit-management-software/compass-transport) and a buntch of [Forecasting](https://www.gi-de.com/en/payment/cash/digital-solutions/cash-in-transit-management-software/compass-atm-forecasting) solutions.
 - 🌱 I’m currently learning ML on Python 
